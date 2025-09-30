@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 1\exercício 1\exercício 1\bin\Debug\net7.0\exercício 1.exe
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 1\exercício 1\exercício 1\bin\Debug\net7.0\exercício 1.deps.json
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 1\exercício 1\exercício 1\bin\Debug\net7.0\exercício 1.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 1\exercício 1\exercício 1\bin\Debug\net7.0\exercício 1.dll
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 1\exercício 1\exercício 1\bin\Debug\net7.0\exercício 1.pdb
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 1\exercício 1\exercício 1\obj\Debug\net7.0\exercício 1.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 1\exercício 1\exercício 1\obj\Debug\net7.0\exercício 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 1\exercício 1\exercício 1\obj\Debug\net7.0\exercício 1.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 1\exercício 1\exercício 1\obj\Debug\net7.0\exercício 1.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 1\exercício 1\exercício 1\obj\Debug\net7.0\exercício 1.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 1\exercício 1\exercício 1\obj\Debug\net7.0\exercício 1.dll
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 1\exercício 1\exercício 1\obj\Debug\net7.0\refint\exercício 1.dll
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 1\exercício 1\exercício 1\obj\Debug\net7.0\exercício 1.pdb
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 1\exercício 1\exercício 1\obj\Debug\net7.0\exercício 1.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 1\exercício 1\exercício 1\obj\Debug\net7.0\ref\exercício 1.dll
