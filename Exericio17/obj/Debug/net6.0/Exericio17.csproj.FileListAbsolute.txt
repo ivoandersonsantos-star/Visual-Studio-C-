@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21103954\Downloads\ATV\Exericio17\Exericio17\bin\Debug\net6.0\Exericio17.exe
+C:\Users\Senai.CEPEAS21103954\Downloads\ATV\Exericio17\Exericio17\bin\Debug\net6.0\Exericio17.deps.json
+C:\Users\Senai.CEPEAS21103954\Downloads\ATV\Exericio17\Exericio17\bin\Debug\net6.0\Exericio17.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103954\Downloads\ATV\Exericio17\Exericio17\bin\Debug\net6.0\Exericio17.dll
+C:\Users\Senai.CEPEAS21103954\Downloads\ATV\Exericio17\Exericio17\bin\Debug\net6.0\Exericio17.pdb
+C:\Users\Senai.CEPEAS21103954\Downloads\ATV\Exericio17\Exericio17\obj\Debug\net6.0\Exericio17.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103954\Downloads\ATV\Exericio17\Exericio17\obj\Debug\net6.0\Exericio17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103954\Downloads\ATV\Exericio17\Exericio17\obj\Debug\net6.0\Exericio17.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103954\Downloads\ATV\Exericio17\Exericio17\obj\Debug\net6.0\Exericio17.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103954\Downloads\ATV\Exericio17\Exericio17\obj\Debug\net6.0\Exericio17.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103954\Downloads\ATV\Exericio17\Exericio17\obj\Debug\net6.0\Exericio17.dll
+C:\Users\Senai.CEPEAS21103954\Downloads\ATV\Exericio17\Exericio17\obj\Debug\net6.0\refint\Exericio17.dll
+C:\Users\Senai.CEPEAS21103954\Downloads\ATV\Exericio17\Exericio17\obj\Debug\net6.0\Exericio17.pdb
+C:\Users\Senai.CEPEAS21103954\Downloads\ATV\Exericio17\Exericio17\obj\Debug\net6.0\Exericio17.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103954\Downloads\ATV\Exericio17\Exericio17\obj\Debug\net6.0\ref\Exericio17.dll
