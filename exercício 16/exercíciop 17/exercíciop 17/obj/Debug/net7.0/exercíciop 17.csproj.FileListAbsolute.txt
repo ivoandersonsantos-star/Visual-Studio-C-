@@ -1,0 +1,5 @@
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 16\exercíciop 17\exercíciop 17\obj\Debug\net7.0\exercíciop 17.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 16\exercíciop 17\exercíciop 17\obj\Debug\net7.0\exercíciop 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 16\exercíciop 17\exercíciop 17\obj\Debug\net7.0\exercíciop 17.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 16\exercíciop 17\exercíciop 17\obj\Debug\net7.0\exercíciop 17.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103949\Downloads\exercício 16\exercíciop 17\exercíciop 17\obj\Debug\net7.0\exercíciop 17.csproj.CoreCompileInputs.cache
